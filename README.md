@@ -14,7 +14,7 @@ In Android, **Styles** and **Themes** are essential for maintaining a consistent
 
 ### Step 1: Create a New Android Project
 - Open Android Studio and create a new project.
-- Select **Empty Activity**.
+- Select **Empty View Activity**.
 
 ### Step 2: Open `res/values/themes.xml`
 - In recent Android Studio versions, styles and themes are defined in `themes.xml`.
